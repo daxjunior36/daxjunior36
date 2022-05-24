@@ -4,7 +4,8 @@ Hi 👋 My name is Domingos Alexandre da Silva Junior
 Web Developer
 -------------
 
-I'm in career transition, I'm passionate about Technology, development and brands that work to contribute to a better digital interaction. I study Web Development at Trybe, a school that teaches programming, learning and working. I work and believe in actions that can generate a positive impact on people's lives.
+I'm in career transition, I'm passionate about Technology, development and brands that
+work to contribute to a better digital interaction. I study Web Development at Trybe, a school that teaches programming and group work. I believe in actions that can generate a positive impact on people's lives.
 
 * 🖥️  See my portfolio at [My Portfolio](http://github.com/daxjunior36?tab=repositories)
 * ✉️  You can contact me at [daxjunior36@gmail.com](mailto:daxjunior36@gmail.com)

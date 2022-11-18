@@ -1,3 +1,7 @@
+![1659228380200](https://user-images.githubusercontent.com/94560031/202721566-1835fbe6-72aa-471b-a303-5dc47c6cfe7a.jpeg)
+
+
+
 Oi meu nome é Domingos Alexandre da Silva Júnior ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================================
 

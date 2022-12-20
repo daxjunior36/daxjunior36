@@ -5,8 +5,9 @@
 Oi meu nome é Domingos Alexandre da Silva Júnior ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================================
 
-Tenho 46 anos e moro em Garanhuns - PE. Desenvolvedor front-end, apaixonado por tecnologia e estou sempre procurando aprender coisas novas. Atualmente em busca da primeira oportunidade na área para obter novos desafios com muito aprendizado e colaboração. Formado em desenvolvimento Full Stack pela Trybe , uma escola que ensina programação e trabalho em grupo.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tenho 46 anos e moro em Garanhuns - PE. Desenvolvedor front-end, apaixonado por tecnologia e estou sempre procurando aprender coisas novas. Atualmente em busca da primeira oportunidade na área para obter novos desafios com muito aprendizado e colaboração. Formado em desenvolvimento Full Stack pela Trybe , uma escola que ensina programação e trabalho em grupo.
 
 * 🌍 Estou baseado em Garanhuns-PE
 * 🖥️  See my portfolio at [https://portfolio-domingos-alexandre.netlify.app/]

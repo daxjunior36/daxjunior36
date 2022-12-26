@@ -54,9 +54,3 @@ Tenho 46 anos e moro em Garanhuns - PE. Desenvolvedor front-end, apaixonado por 
 <a href="http://www.github.com/daxjunior36"><img src="https://github-readme-stats.vercel.app/api?username=daxjunior36&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=000000&hide_border=true&show_icons=true" alt="daxjunior36's GitHub stats" /></a>
 
 <a href="http://www.github.com/daxjunior36"><img src="https://github-readme-streak-stats.herokuapp.com/?user=daxjunior36&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/daxjunior36"><img src="https://activity-graph.herokuapp.com/graph?username=daxjunior36&bg_color=000000&color=ffffff&line=ec4899&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />

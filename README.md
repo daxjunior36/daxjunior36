@@ -9,10 +9,8 @@ Oi meu nome é Domingos Alexandre da Silva Júnior ![](https://user-images.githu
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Tenho 46 anos e moro em Garanhuns - PE. Desenvolvedor Full Stack com foco em front-end, apaixonado por tecnologia e estou sempre procurando aprender coisas novas. Atualmente em busca da primeira oportunidade na área para obter novos desafios com muito aprendizado e colaboração. Formado em desenvolvimento Full Stack pela Trybe , uma escola que ensina programação e trabalho em grupo.
 
-* 🌍 Estou baseado em Garanhuns-PE
-* 🖥️  See my portfolio at [https://portfolio-domingos-alexandre.netlify.app/]
+* 🖥️ Meu portfolio: [https://portfolio-domingos-alexandre.netlify.app/]
 * ✉️ Você pode entrar em contato comigo em daxjunior36@gmail.com
-* 🤝 Estou aberto a colaborar no Estou aberto a colaborar em todos os Projetos
 * ⚡ Tenho dois gatos, o Tómas e a Maria. Amo futebol e Toco um pouco de violão.
 
 <!--
